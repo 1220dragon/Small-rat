@@ -1,57 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://sitemaps.org">
-  <!-- Main Homepage -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://netlify.app</loc>
-    <priority>1.00</priority>
-  </url>
-  <!-- Sub-pages / Sub-directories -->
-  <url>
-    <loc>https://netlify.appMediumrat/</loc>
-    <priority>0.80</priority>
+    <loc>https://netlify.app/</loc>
   </url>
   <url>
-    <loc>https://netlify.appSmallrat/</loc>
-    <priority>0.80</priority>
+    <loc>https://netlify.app/Mediumrat/</loc>
   </url>
   <url>
-    <loc>https://netlify.appbeerrat/</loc>
-    <priority>0.80</priority>
+    <loc>https://netlify.app/Smallrat/</loc>
   </url>
   <url>
-    <loc>https://netlify.appfidget/</loc>
-    <priority>0.80</priority>
+    <loc>https://netlify.app/beerrat/</loc>
   </url>
   <url>
-    <loc>https://netlify.appguineapigrat/</loc>
-    <priority>0.80</priority>
+    <loc>https://netlify.app/fidget/</loc>
   </url>
   <url>
-    <loc>https://netlify.apphue/</loc>
-    <priority>0.80</priority>
+    <loc>https://netlify.app/guineapigrat/</loc>
   </url>
   <url>
-    <loc>https://netlify.appinfo/</loc>
-    <priority>0.80</priority>
+    <loc>https://netlify.app/hue/</loc>
   </url>
   <url>
-    <loc>https://netlify.applogs/</loc>
-    <priority>0.80</priority>
+    <loc>https://netlify.app/info/</loc>
   </url>
   <url>
-    <loc>https://netlify.appmat/</loc>
-    <priority>0.80</priority>
+    <loc>https://netlify.app/logs/</loc>
   </url>
   <url>
-    <loc>https://netlify.appmilk/</loc>
-    <priority>0.80</priority>
+    <loc>https://netlify.app/mat/</loc>
   </url>
   <url>
-    <loc>https://netlify.appsmallerrat/</loc>
-    <priority>0.80</priority>
+    <loc>https://netlify.app/milk/</loc>
   </url>
   <url>
-    <loc>https://netlify.appspin/</loc>
-    <priority>0.80</priority>
+    <loc>https://netlify.app/smallerrat/</loc>
+  </url>
+  <url>
+    <loc>https://netlify.app/spin/</loc>
+  </url>
+  <url>
+    <loc>https://netlify.app/404.html</loc>
+  </url>
+  <url>
+    <loc>https://netlify.app/index.html</loc>
   </url>
 </urlset>
