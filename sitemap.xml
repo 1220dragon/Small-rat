@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://netlify.app/</loc>
+    <loc>https://smallrat.netlify.app/</loc>
   </url>
   <url>
-    <loc>https://netlify.app/Mediumrat/</loc>
+    <loc>https://smallrat.netlify.app/Mediumrat/</loc>
   </url>
   <url>
-    <loc>https://netlify.app/Smallrat/</loc>
+    <loc>https://smallrat.netlify.app/Smallrat/</loc>
   </url>
   <url>
-    <loc>https://netlify.app/beerrat/</loc>
+    <loc>https://smallrat.netlify.app/beerrat/</loc>
   </url>
   <url>
-    <loc>https://netlify.app/fidget/</loc>
+    <loc>https://smallrat.netlify.app/fidget/</loc>
   </url>
   <url>
-    <loc>https://netlify.app/guineapigrat/</loc>
+    <loc>https://smallrat.netlify.app/guineapigrat/</loc>
   </url>
   <url>
-    <loc>https://netlify.app/hue/</loc>
+    <loc>https://smallrat.netlify.app/hue/</loc>
   </url>
   <url>
-    <loc>https://netlify.app/info/</loc>
+    <loc>https://smallrat.netlify.app/info/</loc>
   </url>
   <url>
-    <loc>https://netlify.app/logs/</loc>
+    <loc>https://smallrat.netlify.app/logs/</loc>
   </url>
   <url>
-    <loc>https://netlify.app/mat/</loc>
+    <loc>https://smallrat.netlify.app/mat/</loc>
   </url>
   <url>
-    <loc>https://netlify.app/milk/</loc>
+    <loc>https://smallrat.netlify.app/milk/</loc>
   </url>
   <url>
-    <loc>https://netlify.app/smallerrat/</loc>
+    <loc>https://smallrat.netlify.app/smallerrat/</loc>
   </url>
   <url>
-    <loc>https://netlify.app/spin/</loc>
+    <loc>https://smallrat.netlify.app/spin/</loc>
   </url>
   <url>
-    <loc>https://netlify.app/404.html</loc>
+    <loc>https://smallrat.netlify.app/404.html</loc>
   </url>
   <url>
-    <loc>https://netlify.app/index.html</loc>
+    <loc>https://smallrat.netlify.app/index.html</loc>
   </url>
 </urlset>
