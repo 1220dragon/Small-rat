@@ -1,4 +1,8 @@
-img {
-  width: 250px;
-  height: auto;
+body{
+    text-align: center;
+    background-color: black;
+}
+
+body *{
+    color: white;
 }
