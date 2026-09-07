@@ -29,7 +29,7 @@ a1.style.fontFamily = 'Arial'
 a1.innerHTML = " If you are a programmer, click here!"
 a1.href = "https://smallrat.netlify.app/Ad/devs.html"
 a1.style.textShadow = "-2px -2px 0 black"
-let a2 = document.createElement('a')
+let a2 = document.createElement('p')
 a2.style.color = 'white'
 a2.style.textAlign = "center"
 a2.style.fontFamily = 'Arial'
@@ -43,7 +43,7 @@ contH1.append(a2)
 
 
 function generate(){
-document.body.append(container)
+setTimeout(1000, document.body.append(container))
 }
 
 
