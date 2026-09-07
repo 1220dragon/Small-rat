@@ -2,5 +2,3 @@
   for = "/*"
   [headers.values]
     X-Robots-Tag = "index, follow"
-  [build]
-  command = "cat meta-tags.html >> dist/index.html && your-normal-build-command"
