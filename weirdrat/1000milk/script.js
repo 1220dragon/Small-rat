@@ -5,5 +5,5 @@ for (let i = 0; i < 1000; i++) {
   milk.style.width = "100px";
   milk.style.height = "auto";
   document.body.append(milk);
-  console.log(i);
+  console.log(i); 
 }
